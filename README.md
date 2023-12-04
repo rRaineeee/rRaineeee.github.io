@@ -6,4 +6,4 @@ Raine Angel Marieli A. Sta. Catalina
 The person in the video is Max Park. He is the current world record holder for the 3x3 single. 
 
 ![Facade](https://www.courthousenews.com/wp-content/uploads/2019/10/erno-rubik-with-cube.jpg)
-A rubiks cube is a puzzle made by Ernő Rubik, he originially invented the rubiks cube to help teach his students about three-dimensional objects. 
+The Rubik's Cube is a puzzle invented by Ernő Rubik, a Hungarian Architecture professor. He later used the rubik's cube as a tool to help his students learn about 3-dimensional spaces. He didn't know that his "Magic Cube"(The first name of the rubik's cube) would become one of the most famous puzzles in the world. In the 1980s the cube started to sell out millions each year, and to this day it is still one of the most famous puzzles in the world. 

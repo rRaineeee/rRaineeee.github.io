@@ -8,5 +8,5 @@ The person in the video is Max Park. He is the current world record holder for t
 ![Facade](https://www.courthousenews.com/wp-content/uploads/2019/10/erno-rubik-with-cube.jpg)
 The Rubik's Cube is a puzzle invented by Ernő Rubik, a Hungarian Architecture professor. He later used the rubik's cube as a tool to help his students learn about 3-dimensional spaces. He didn't know that his "Magic Cube"(The first name of the rubik's cube) would become one of the most famous puzzles in the world. In the 1980s the cube started to sell out millions each year, and to this day it is still one of the most famous puzzles in the world. 
 
-Today, there are multiple different types of rubik's cubes, different shapes and sizes. Some are shaped like a pyramid, some have 12 sides maybe more, some can shape shift. Shape Shifting means it can become all jumbled up and it can no longer look like its original shape. Like in the image below: 
+Today, there are multiple different types of rubik's cubes, different shapes and sizes. Some are shaped like a pyramid, some have 12 sides maybe more, some can shape shift. Shape Shifting means it can become all jumbled up and it can no longer look like its original shape. There are even cubing competitions for certain cubes! Like in the image below: 
 ![Facade](https://miro.medium.com/v2/resize:fit:1358/0*g1cMfBYObh-H7z0g.jpg)
